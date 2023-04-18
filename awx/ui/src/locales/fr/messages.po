@@ -784,7 +784,7 @@ msgstr "Branche à utiliser dans l’exécution de la tâche. Projet par défaut
 
 #: screens/Inventory/shared/Inventory.helptext.js:155
 msgid "Branch to use on inventory sync. Project default used if blank. Only allowed if project allow_override field is set to true."
-msgstr ""
+msgstr "Branche à utiliser pour la synchronisation de l'inventaire. La valeur par défaut du projet est utilisée si elle est vide. Cette option n'est autorisée que si le champ allow_override du projet est défini sur vrai."
 
 #: components/About/About.js:45
 msgid "Brand Image"
@@ -2832,7 +2832,7 @@ msgstr "Entrez les variables avec la syntaxe JSON ou YAML.  Consultez la documen
 
 #: screens/Inventory/shared/SmartInventoryForm.js:94
 msgid "Enter inventory variables using either JSON or YAML syntax. Use the radio button to toggle between the two. Refer to the Ansible Controller documentation for example syntax."
-msgstr ""
+msgstr "Entrez les variables d'inventaire en utilisant la syntaxe JSON ou YAML. Utilisez le bouton pour basculer entre les deux. Référez-vous à la documentation du contrôleur Ansible pour les exemples de syntaxe."
 
 #: screens/CredentialType/CredentialTypeDetails/CredentialTypeDetails.js:87
 msgid "Environment variables or extra variables that specify the values a credential type can inject."
@@ -3015,7 +3015,7 @@ msgstr "Recherche exacte sur le champ d'identification."
 
 #: components/Search/RelatedLookupTypeInput.js:38
 msgid "Exact search on name field."
-msgstr ""
+msgstr "Recherche exact sur le champ nom"
 
 #: screens/Project/shared/Project.helptext.js:23
 msgid "Example URLs for GIT Source Control include:"
@@ -3242,7 +3242,7 @@ msgstr "Jobs ayant échoué"
 
 #: screens/WorkflowApproval/WorkflowApprovalList/WorkflowApprovalList.js:262
 msgid "Failed to approve one or more workflow approval."
-msgstr ""
+msgstr "Échec de l'approbation d'une ou plusieurs validations de flux de travail."
 
 #: screens/WorkflowApproval/shared/WorkflowApprovalButton.js:56
 msgid "Failed to approve {0}."
@@ -3474,7 +3474,7 @@ msgstr "N'a pas réussi à supprimer {name}."
 
 #: screens/WorkflowApproval/WorkflowApprovalList/WorkflowApprovalList.js:263
 msgid "Failed to deny one or more workflow approval."
-msgstr ""
+msgstr "Échec du refus d'une ou plusieurs validations de flux de travail."
 
 #: screens/WorkflowApproval/shared/WorkflowDenyButton.js:51
 msgid "Failed to deny {0}."
@@ -9755,7 +9755,7 @@ msgstr "Variables demandées"
 
 #: screens/Inventory/shared/Inventory.helptext.js:43
 msgid "Variables must be in JSON or YAML syntax. Use the radio button to toggle between the two."
-msgstr "Variables avec la syntaxe JSON ou YAML. Utilisez le bouton radio pour basculer entre les deux."
+msgstr "Variables avec la syntaxe JSON ou YAML. Utilisez le bouton d'option pour basucler entre les deux"
 
 #: screens/Inventory/shared/Inventory.helptext.js:167
 msgid "Variables used to configure the inventory source. For a detailed description of how to configure this plugin, see <0>Inventory Plugins</0> in the documentation and the <1>{sourceType}</1> plugin configuration guide."
